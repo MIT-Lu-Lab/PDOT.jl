@@ -12,7 +12,7 @@ $ julia --project -e 'import Pkg; Pkg.instantiate()'
 
 ## Running 
 
-Instances of optimal transport are wrapped as the following structure:
+Instances of optimal transport are wrapped in the following structure:
 ```julia
 mutable struct OptimalTransportProblem
     cost_matrix::Matrix{Float64}
