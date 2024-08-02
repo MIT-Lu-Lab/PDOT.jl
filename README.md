@@ -30,3 +30,14 @@ function solve_instance_and_output(
     tolerance = 1.0e-4
 )
 ```
+
+## Citation
+If PDOT is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
+```bibtex
+@article{lu2024pdot,
+  title={PDOT: a Practical Primal-Dual Algorithm and a GPU-Based Solver for Optimal Transport},
+  author={Lu, Haihao and Yang, Jinwen},
+  journal={arXiv preprint arXiv:2407.19689},
+  year={2024}
+}
+```
