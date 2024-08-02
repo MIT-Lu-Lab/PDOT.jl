@@ -1,0 +1,12 @@
+name = "PDOT"
+uuid = "2a439a17-9811-430c-9a89-55c3fbae2848"
+version = "0.0.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
